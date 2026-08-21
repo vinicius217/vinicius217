@@ -4,11 +4,8 @@
 🚀 **Computer Science Student | Python & Java**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
-
+**I am a Computer Science student with a passion for technology and software development.**
+**I am currently honing my programming skills and constantly striving to grow within the technology field.**
 ---
 
 ## 🌐 Where to find me
@@ -43,15 +40,11 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+[![Python](https://img.icons8.com/?size=100&id=hZvpN3zV45Yf&format=png&color=000000)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
@@ -69,13 +62,3 @@ I also create content and share knowledge on **software development, SaaS, and t
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius217&theme=tokyonight" /> </p> <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius217&theme=tokyo-night&hide_border=true" /> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius217&label=Profile%20views&color=0e75b6&style=flat" /> <img src="https://img.shields.io/github/followers/vinicius217?label=Followers&style=social" /> </p>
 
 ---
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
