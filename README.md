@@ -64,14 +64,9 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
----
+--- GIT HUB STATS
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinicius217&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius217&layout=compact&theme=tokyonight" />
-</p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius217&theme=tokyonight" /> </p> <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius217&theme=tokyo-night&hide_border=true" /> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius217&label=Profile%20views&color=0e75b6&style=flat" /> <img src="https://img.shields.io/github/followers/vinicius217?label=Followers&style=social" /> </p>
 
 ---
 
