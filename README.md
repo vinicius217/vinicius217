@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/31320433/README.md)
 # Hi 👋, I'm Vinicius Madalossi
 
-🚀 **Senior Software Engineer | Python & Java**  
+🚀 **Computer Science Student | Python & Java**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
@@ -64,7 +64,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
---- GIT HUB STATS
+### GIT HUB STATS
 
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius217&theme=tokyonight" /> </p> <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius217&theme=tokyo-night&hide_border=true" /> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius217&label=Profile%20views&color=0e75b6&style=flat" /> <img src="https://img.shields.io/github/followers/vinicius217?label=Followers&style=social" /> </p>
 
