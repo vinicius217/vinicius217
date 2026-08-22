@@ -1,57 +1,101 @@
-[README.md](https://github.com/user-attachments/files/31320433/README.md)
-# Hi 👋, I'm Vinicius Madalossi
+# 👨‍💻 Vinicius Lucheta
 
-🚀 **Computer Science Student | Python & Java**  
-🇧🇷 Brazil
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Python+Developer;Backend+Developer+in+Progress;Always+Learning+Something+New" />
+</p>
 
-**I am a Computer Science student with a passion for technology and software development.**
-**I am currently honing my programming skills and constantly striving to grow within the technology field.**
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/vinicius217">
-    <img src="https://img.shields.io/badge/GitHub-vinicius217-181717?style=for-the-badge&logo=github" />
-  </a>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00ffff" />
 </p>
 
 ---
 
-## 🧠 What I do
+## 🧠 Sobre mim
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+🎓 Estudante de **Ciência da Computação**
+🐍 Atualmente focado em **Python**
+💻 Interessado em **Backend, APIs, Banco de Dados e Cloud**
+🚀 Sempre buscando aprender novas tecnologias e desenvolver projetos práticos
+🎯 Em busca de oportunidades para crescer profissionalmente na área de tecnologia
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ GitHub Status
 
-### Backend
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
-### GIT HUB STATS
-
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius217&theme=tokyonight" /> </p> <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius217&theme=tokyo-night&hide_border=true" /> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius217&label=Profile%20views&color=0e75b6&style=flat" /> <img src="https://img.shields.io/github/followers/vinicius217?label=Followers&style=social" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,postgresql,mysql,docker&perline=9" />
+
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projetos
+
+| Projeto       | Descrição                             | Tecnologias  |
+| ------------- | ------------------------------------- | ------------ |
+| 🔥 Projeto 01 | Projeto backend em desenvolvimento    | Python       |
+| ⚡ Projeto 02  | Aplicação para resolução de problemas | Python / SQL |
+| 🧠 Projeto 03 | Projeto acadêmico                     | C / C++      |
+
+> 🔨 Em constante desenvolvimento...
+
+---
+
+## 🎯 Atualmente estudando
+
+```text
+Python          ███████████████████░░  90%
+SQL             ███████████████░░░░░░  70%
+PostgreSQL      █████████████░░░░░░░░  60%
+Backend         ████████████░░░░░░░░░  55%
+Cloud           ████████░░░░░░░░░░░░░  35%
+Docker          ███████░░░░░░░░░░░░░░  30%
+```
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 Building. Learning. Evolving.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer"/>
+
+</p>
