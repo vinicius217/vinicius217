@@ -1,101 +1,53 @@
-# 👨‍💻 Vinicius Lucheta
+<h2 data-importer="text" align="left">Hi 👋,I'm Vinicius! A junior developer passionate about creating cool things.</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Python+Developer;Backend+Developer+in+Progress;Always+Learning+Something+New" />
-</p>
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00ffff" />
-</p>
+<p data-importer="text" align="left">## 🧠 About Me<br><br>🎓 **Computer Science** student<br>🐍 Currently focused on **Python**<br>💻 Interested in **Backend, APIs, Databases, and Cloud**<br>🚀 Always looking to learn new technologies and build practical projects<br>🎯 Seeking opportunities for professional growth in the tech industry</p>
 
----
+###
 
-## 🧠 Sobre mim
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-🎓 Estudante de **Ciência da Computação**
-🐍 Atualmente focado em **Python**
-💻 Interessado em **Backend, APIs, Banco de Dados e Cloud**
-🚀 Sempre buscando aprender novas tecnologias e desenvolver projetos práticos
-🎯 Em busca de oportunidades para crescer profissionalmente na área de tecnologia
+###
 
----
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
-## ⚡ GitHub Status
+###
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius217&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinicius217&theme=tokyonight&hide_border=true" />
-</p>
+###
 
----
+<br clear="both">
 
-## 🛠️ Tecnologias
+<img data-importer="snake" src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="Snake animation" />
 
-<p align="center">
+###
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,postgresql,mysql,docker&perline=9" />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius217&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🚀 Projetos
-
-| Projeto       | Descrição                             | Tecnologias  |
-| ------------- | ------------------------------------- | ------------ |
-| 🔥 Projeto 01 | Projeto backend em desenvolvimento    | Python       |
-| ⚡ Projeto 02  | Aplicação para resolução de problemas | Python / SQL |
-| 🧠 Projeto 03 | Projeto acadêmico                     | C / C++      |
-
-> 🔨 Em constante desenvolvimento...
-
----
-
-## 🎯 Atualmente estudando
-
-```text
-Python          ███████████████████░░  90%
-SQL             ███████████████░░░░░░  70%
-PostgreSQL      █████████████░░░░░░░░  60%
-Backend         ████████████░░░░░░░░░  55%
-Cloud           ████████░░░░░░░░░░░░░  35%
-Docker          ███████░░░░░░░░░░░░░░  30%
-```
-
----
-
-## 📫 Contato
-
-<p align="center">
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💻 Building. Learning. Evolving.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer"/>
-
-</p>
+###
