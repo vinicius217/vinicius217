@@ -5,13 +5,24 @@
 <p data-importer="text" align="left">## 🧠 About Me<br><br>🎓 **Computer Science** student<br>🐍 Currently focused on **Python**<br>💻 Interested in **Backend, APIs, Databases, and Cloud**<br>🚀 Always looking to learn new technologies and build practical projects<br>🎯 Seeking opportunities for professional growth in the tech industry</p>
 
 ###
+## 📊 GitHub Stats
+<div align="center">
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+## 🐍 Atividades Recentes
+<div align="center">
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="Snake animation" />
+
+##### 
+## 💻 Tecnologias e Ferramentas
+<div align="center">
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -33,16 +44,24 @@
 
 ###
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
+## 🚀 Contato
+
+<p align="center">
+  <a href="viniciusmadalossi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:luchetamadalossiv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="vinicius.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
 
 ###
 
-<br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
