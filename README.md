@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">## 🧠 About Me<br><br>🎓 **Computer Science** student<br>🐍 Currently focused on **Python**<br>💻 Interested in **Backend, APIs, Databases, and Cloud**<br>🚀 Always looking to learn new technologies and build practical projects<br>🎯 Seeking opportunities for professional growth in the tech industry</p>
+<p data-importer="text" align="left">🧠 About Me<br><br>🎓 **Computer Science** student<br>🐍 Currently focused on **Python**<br>💻 Interested in **Backend, APIs, Databases, and Cloud**<br>🚀 Always looking to learn new technologies and build practical projects<br>🎯 Seeking opportunities for professional growth in the tech industry</p>
 
 ###
 ## 📊 GitHub Stats
@@ -48,13 +48,13 @@
 ## 🚀 Contato
 
 <p align="center">
-  <a href="viniciusmadalossi" target="_blank">
+  <a href="www.linkedin.com/in/viniciusmadalossi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:luchetamadalossiv@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="vinicius.github.io" target="_blank">
+  <a href="vinicius217.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
 </p>
