@@ -1,55 +1,47 @@
 <div align="center">
 
-# Olá, eu sou o Vinicius Madalossi 👋
+# Hi, I'm Vinicius Madalossi 👋
 
-### Desenvolvedor Full Stack em formação
+### Full Stack Developer in training
 
-Estudante de Ciência da Computação, construindo aplicações completas com foco em Python, APIs REST e interfaces responsivas.
+Computer Science student building complete applications with a focus on Python, REST APIs, and responsive interfaces.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-18181B?style=for-the-badge&logo=githubpages&logoColor=white)](https://vinicius217.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=githubpages&logoColor=white)](https://vinicius217.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmadalossi)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luchetamadalossiv@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luchetamadalossiv@gmail.com)
 
 </div>
 
-## Sobre mim
+## About me
 
-- 🎓 Cursando Ciência da Computação no Centro Universitário Barão de Mauá
-- 📍 Cravinhos, São Paulo
-- 💻 Foco atual em desenvolvimento Full Stack com Python e FastAPI
-- 🧠 Aprendo construindo projetos e resolvendo problemas reais
-- 🚀 Em busca de estágio ou oportunidade como desenvolvedor júnior
+- 🎓 Computer Science student at Centro Universitário Barão de Mauá
+- 📍 Based in Cravinhos, São Paulo, Brazil
+- 💻 Focused on Full Stack development with Python and FastAPI
+- 🧠 Learning by building practical projects and solving real problems
+- 🚀 Looking for an internship or junior developer opportunity
 
-## Projetos fixados
+## Pinned projects
 
-### 🔐 [Nexora — Secure Identity](https://github.com/vinicius217/nexora-auth)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Nexora — Secure Identity</h3>
+      <p>A full-stack authentication system with sign-up, login, session renewal, password recovery, profile management, and a responsive dashboard.</p>
+      <p><b>Highlights:</b> JWT authentication, HttpOnly cookies, bcrypt password hashing, layered backend architecture, and REST API integration.</p>
+      <p><b>Stack:</b> Python · FastAPI · SQLAlchemy · Pydantic · JWT · SQLite · HTML · CSS · JavaScript</p>
+      <p align="center"><a href="https://github.com/vinicius217/nexora-auth"><b>View repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧑‍💻 Personal Portfolio</h3>
+      <p>A responsive personal website presenting my background, education, technical skills, certificates, projects, and contact information.</p>
+      <p><b>Highlights:</b> responsive layout, clear visual hierarchy, accessible structure, animations, and interactive JavaScript elements.</p>
+      <p><b>Stack:</b> HTML · CSS · JavaScript</p>
+      <p align="center"><a href="https://vinicius217.github.io"><b>Live website →</b></a> · <a href="https://github.com/vinicius217/vinicius217.github.io"><b>Source code →</b></a></p>
+    </td>
+  </tr>
+</table>
 
-**O que é:** uma aplicação full-stack para autenticação e gerenciamento de contas de usuários.
-
-**O que oferece:** cadastro, login, renovação de sessão, recuperação de senha, edição de perfil e dashboard responsivo. As senhas são protegidas com bcrypt e os tokens são enviados em cookies HttpOnly.
-
-**O que o projeto demonstra:** construção de API REST, segurança de autenticação, organização do backend em camadas, integração entre frontend e API e documentação com Swagger.
-
-**Tecnologias:** Python · FastAPI · SQLAlchemy · Pydantic · JWT · SQLite · HTML · CSS · JavaScript
-
-[![Abrir Nexora](https://img.shields.io/badge/Abrir_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/nexora-auth)
-
----
-
-### 🧑‍💻 [Portfólio pessoal](https://github.com/vinicius217/vinicius217.github.io)
-
-**O que é:** meu site pessoal para apresentar minha trajetória, formação, conhecimentos e projetos.
-
-**O que oferece:** apresentação profissional, seção sobre mim, formação acadêmica, stack, certificados, projetos e formas de contato em uma interface responsiva.
-
-**O que o projeto demonstra:** desenvolvimento de interfaces, responsividade, organização visual, acessibilidade básica e interações com JavaScript.
-
-**Tecnologias:** HTML · CSS · JavaScript
-
-[![Abrir portfólio](https://img.shields.io/badge/Ver_site-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://vinicius217.github.io)
-[![Ver código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/vinicius217.github.io)
-
-## Tecnologias e ferramentas
+## Technologies and tools
 
 <div align="center">
 
@@ -65,35 +57,34 @@ Estudante de Ciência da Computação, construindo aplicações completas com fo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Banco de Dados
+### Databases
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
 
-## Estatísticas
+## GitHub statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg?v=2" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg?v=2" height="160" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg?v=3" height="160" alt="GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg?v=3" height="160" alt="Most used languages" />
 </div>
 
-## Atividade recente
+## Contribution activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="Animação das contribuições do GitHub" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="GitHub contribution animation" />
 </div>
 
 ---
 
 <div align="center">
-  Aberto a oportunidades para aprender, colaborar e construir bons produtos.
+  Open to opportunities to learn, collaborate, and build useful products.
 </div>
