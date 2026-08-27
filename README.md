@@ -67,6 +67,12 @@ Sistema full-stack de autenticação com cadastro, login, recuperação de senha
   <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg" height="160" alt="Linguagens mais usadas" />
 </div>
 
+## Atividade recente
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="Animação das contribuições do GitHub" />
+</div>
+
 ---
 
 <div align="center">
