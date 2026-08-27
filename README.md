@@ -1,76 +1,74 @@
-<div data-importer="border">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+
+# Olá, eu sou o Vinicius Madalossi 👋
+
+### Desenvolvedor Full Stack em formação
+
+Estudante de Ciência da Computação, construindo aplicações completas com foco em Python, APIs REST e interfaces responsivas.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-18181B?style=for-the-badge&logo=githubpages&logoColor=white)](https://vinicius217.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmadalossi)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luchetamadalossiv@gmail.com)
+
 </div>
 
-<h2 data-importer="text" align="left">Hi 👋, I'm Vinicius! Junior developer in training.</h2>
+## Sobre mim
 
-###
+- 🎓 Cursando Ciência da Computação no Centro Universitário Barão de Mauá
+- 📍 Cravinhos, São Paulo
+- 💻 Foco atual em desenvolvimento Full Stack com Python e FastAPI
+- 🧠 Aprendo construindo projetos e resolvendo problemas reais
+- 🚀 Em busca de estágio ou oportunidade como desenvolvedor júnior
 
-<p data-importer="text" align="left">
-  🧠 About Me<br><br>
-  🎓 **Computer Science** student<br>
-  🐍 Currently focused on **Python**<br>
-  💻 FullStack Developer<br>
-  🚀 Always looking to learn new technologies and build practical projects<br>
-  🎯 Seeking opportunities for professional growth in the tech industry
-</p>
+## Projeto em destaque
+
+### [Nexora — Secure Identity](https://github.com/vinicius217/nexora-auth)
+
+Sistema full-stack de autenticação com cadastro, login, recuperação de senha, edição de perfil e dashboard responsivo.
+
+**Principais recursos:**
+
+- Sessões protegidas com access token, refresh token e cookies HttpOnly
+- Senhas armazenadas com hash bcrypt
+- API REST documentada com Swagger
+- Arquitetura organizada em rotas, serviços e repositórios
+- Interface responsiva desenvolvida com HTML, CSS e JavaScript
+
+**Stack:** Python · FastAPI · SQLAlchemy · Pydantic · JWT · SQLite · HTML · CSS · JavaScript
+
+[![Ver repositório](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/nexora-auth)
+
+## Outros repositórios
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [vinicius217.github.io](https://github.com/vinicius217/vinicius217.github.io) | Meu portfólio pessoal, com projetos, formação, certificados e formas de contato. | HTML, CSS, JavaScript |
+| [nexora-auth](https://github.com/vinicius217/nexora-auth) | Aplicação full-stack de autenticação segura e gerenciamento de perfil. | Python, FastAPI, SQLAlchemy, JWT |
+
+## Tecnologias e ferramentas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius217&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius217&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="160" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-## 🐍 Atividades Recentes
-<div align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-<div align="center">
-
-  ### 🌐 Front-end
-  <div data-importer="techs-front">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 badge" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript badge" />
-  </div>
-
-  <br>
-
-  ### ⚙️ Back-end
-  <div data-importer="techs-back">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python badge" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus badge" />
-  </div>
-
-  <br>
-
-  ### 🗄️ Banco de Dados
-  <div data-importer="techs-db">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql badge" />
-  </div>
-
-</div>
-
----
-
-## 🚀 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/viniciusmadalossi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:luchetamadalossiv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://vinicius217.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
-  </a>
+  Aberto a oportunidades para aprender, colaborar e construir bons produtos.
 </div>
