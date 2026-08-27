@@ -20,30 +20,34 @@ Estudante de Ciência da Computação, construindo aplicações completas com fo
 - 🧠 Aprendo construindo projetos e resolvendo problemas reais
 - 🚀 Em busca de estágio ou oportunidade como desenvolvedor júnior
 
-## Projeto em destaque
+## Projetos fixados
 
-### [Nexora — Secure Identity](https://github.com/vinicius217/nexora-auth)
+### 🔐 [Nexora — Secure Identity](https://github.com/vinicius217/nexora-auth)
 
-Sistema full-stack de autenticação com cadastro, login, recuperação de senha, edição de perfil e dashboard responsivo.
+**O que é:** uma aplicação full-stack para autenticação e gerenciamento de contas de usuários.
 
-**Principais recursos:**
+**O que oferece:** cadastro, login, renovação de sessão, recuperação de senha, edição de perfil e dashboard responsivo. As senhas são protegidas com bcrypt e os tokens são enviados em cookies HttpOnly.
 
-- Sessões protegidas com access token, refresh token e cookies HttpOnly
-- Senhas armazenadas com hash bcrypt
-- API REST documentada com Swagger
-- Arquitetura organizada em rotas, serviços e repositórios
-- Interface responsiva desenvolvida com HTML, CSS e JavaScript
+**O que o projeto demonstra:** construção de API REST, segurança de autenticação, organização do backend em camadas, integração entre frontend e API e documentação com Swagger.
 
-**Stack:** Python · FastAPI · SQLAlchemy · Pydantic · JWT · SQLite · HTML · CSS · JavaScript
+**Tecnologias:** Python · FastAPI · SQLAlchemy · Pydantic · JWT · SQLite · HTML · CSS · JavaScript
 
-[![Ver repositório](https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/nexora-auth)
+[![Abrir Nexora](https://img.shields.io/badge/Abrir_repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/nexora-auth)
 
-## Outros repositórios
+---
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [vinicius217.github.io](https://github.com/vinicius217/vinicius217.github.io) | Meu portfólio pessoal, com projetos, formação, certificados e formas de contato. | HTML, CSS, JavaScript |
-| [nexora-auth](https://github.com/vinicius217/nexora-auth) | Aplicação full-stack de autenticação segura e gerenciamento de perfil. | Python, FastAPI, SQLAlchemy, JWT |
+### 🧑‍💻 [Portfólio pessoal](https://github.com/vinicius217/vinicius217.github.io)
+
+**O que é:** meu site pessoal para apresentar minha trajetória, formação, conhecimentos e projetos.
+
+**O que oferece:** apresentação profissional, seção sobre mim, formação acadêmica, stack, certificados, projetos e formas de contato em uma interface responsiva.
+
+**O que o projeto demonstra:** desenvolvimento de interfaces, responsividade, organização visual, acessibilidade básica e interações com JavaScript.
+
+**Tecnologias:** HTML · CSS · JavaScript
+
+[![Abrir portfólio](https://img.shields.io/badge/Ver_site-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://vinicius217.github.io)
+[![Ver código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/vinicius217.github.io)
 
 ## Tecnologias e ferramentas
 
