@@ -63,8 +63,8 @@ Sistema full-stack de autenticação com cadastro, login, recuperação de senha
 ## Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius217&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius217&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="160" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg" height="160" alt="Linguagens mais usadas" />
 </div>
 
 ---
