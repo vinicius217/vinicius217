@@ -63,8 +63,8 @@ Sistema full-stack de autenticação com cadastro, login, recuperação de senha
 ## Estatísticas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg" height="160" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg?v=2" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg?v=2" height="160" alt="Linguagens mais usadas" />
 </div>
 
 ## Atividade recente
