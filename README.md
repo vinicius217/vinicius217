@@ -20,27 +20,6 @@ Computer Science student building complete applications with a focus on Python, 
 - 🧠 Learning by building practical projects and solving real problems
 - 🚀 Looking for an internship or junior developer opportunity
 
-## Pinned projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 Nexora — Secure Identity</h3>
-      <p>A full-stack authentication system with sign-up, login, session renewal, password recovery, profile management, and a responsive dashboard.</p>
-      <p><b>Highlights:</b> JWT authentication, HttpOnly cookies, bcrypt password hashing, layered backend architecture, and REST API integration.</p>
-      <p><b>Stack:</b> Python · FastAPI · SQLAlchemy · Pydantic · JWT · SQLite · HTML · CSS · JavaScript</p>
-      <p align="center"><a href="https://github.com/vinicius217/nexora-auth"><b>View repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧑‍💻 Personal Portfolio</h3>
-      <p>A responsive personal website presenting my background, education, technical skills, certificates, projects, and contact information.</p>
-      <p><b>Highlights:</b> responsive layout, clear visual hierarchy, accessible structure, animations, and interactive JavaScript elements.</p>
-      <p><b>Stack:</b> HTML · CSS · JavaScript</p>
-      <p align="center"><a href="https://vinicius217.github.io"><b>Live website →</b></a> · <a href="https://github.com/vinicius217/vinicius217.github.io"><b>Source code →</b></a></p>
-    </td>
-  </tr>
-</table>
-
 ## Technologies and tools
 
 <div align="center">
