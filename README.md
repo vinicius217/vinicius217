@@ -1,40 +1,36 @@
 <div align="center">
 
-# Olá, eu sou Vinicius Madalossi 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinicius+Madalossi+%F0%9F%91%8B" alt="Hi, I'm Vinicius Madalossi" />
 
-### Desenvolvedor Full Stack em formação
+### Full Stack Developer in Training
 
-Graduando em Ciência da Computação, desenvolvo aplicações web completas com foco em Python, APIs REST e interfaces responsivas.
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-18181B?style=for-the-badge&logo=githubpages&logoColor=white)](https://vinicius217.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmadalossi)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luchetamadalossiv@gmail.com)
+Computer Science student building complete web applications with a focus on Python, REST APIs, and responsive interfaces.
 
 </div>
 
-## Sobre mim
+## About me
 
-- 🎓 Estudante de Ciência da Computação no Centro Universitário Barão de Mauá
-- 📍 Cravinhos, São Paulo, Brasil
-- 💻 Foco em desenvolvimento Full Stack com Python e FastAPI
-- 🧠 Aprendizado baseado em projetos, boas práticas e resolução de problemas
-- 🚀 Disponível para estágio e oportunidades como desenvolvedor júnior
+- 🎓 Computer Science student at Centro Universitário Barão de Mauá
+- 📍 Based in Cravinhos, São Paulo, Brazil
+- 💻 Focused on Full Stack development with Python and FastAPI
+- 🧠 Learning through practical projects, best practices, and problem-solving
+- 🚀 Open to internship and junior developer opportunities
 
-## Projeto em destaque
+## Featured project
 
 ### 🔐 [Nexora — Secure Identity](https://github.com/vinicius217/nexora-auth)
 
-Sistema full stack de autenticação com cadastro, login, recuperação de senha, edição de perfil e dashboard responsivo.
+Full stack authentication system featuring sign-up, login, password recovery, profile management, and a responsive dashboard.
 
-- API REST documentada com Swagger
-- Autenticação com JWT, cookies HttpOnly e senhas protegidas com bcrypt
-- Arquitetura em camadas utilizando FastAPI, SQLAlchemy e Pydantic
-- Interface responsiva desenvolvida com HTML, CSS e JavaScript
+- REST API documented with Swagger
+- Authentication with JWT, HttpOnly cookies, and bcrypt password hashing
+- Layered architecture using FastAPI, SQLAlchemy, and Pydantic
+- Responsive interface built with HTML, CSS, and JavaScript
 
-[![Ver código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/nexora-auth)
-[![Como executar](https://img.shields.io/badge/Como_executar-009688?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/vinicius217/nexora-auth#como-executar)
+[![View code](https://img.shields.io/badge/View_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/nexora-auth)
+[![How to run](https://img.shields.io/badge/How_to_run-009688?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/vinicius217/nexora-auth#como-executar)
 
-## Tecnologias e ferramentas
+## Technologies and tools
 
 <div align="center">
 
@@ -51,41 +47,42 @@ Sistema full stack de autenticação com cadastro, login, recuperação de senha
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Bancos de dados
+### Databases
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 </div>
 
-## Estatísticas do GitHub
+## GitHub statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg?v=3" height="160" alt="Estatísticas do GitHub de Vinicius" />
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg?v=3" height="160" alt="Linguagens mais utilizadas por Vinicius" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg?v=3" height="160" alt="Vinicius's GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg?v=3" height="160" alt="Vinicius's most used languages" />
 </div>
 
-## Atividade de contribuições
+## Contribution activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="Animação das contribuições de Vinicius no GitHub" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="Vinicius's GitHub contribution animation" />
 </div>
 
 ---
 
 <div align="center">
 
-### Vamos conversar?
+### Let's connect
 
-Estou aberto a oportunidades para aprender, colaborar e desenvolver produtos úteis.
+I'm open to opportunities to learn, collaborate, and build useful products.
 
-[LinkedIn](https://www.linkedin.com/in/viniciusmadalossi) · [E-mail](mailto:luchetamadalossiv@gmail.com) · [Portfólio](https://vinicius217.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=githubpages&logoColor=white)](https://vinicius217.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmadalossi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luchetamadalossiv@gmail.com)
 
 </div>
