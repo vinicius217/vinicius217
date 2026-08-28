@@ -73,7 +73,7 @@ A full stack authentication system with sign-up, login, password recovery, profi
 
 | Course | Institution | Duration |
 |---|---|---:|
-| Python Avançado | Udemy | 40h |
+| MySQL | Udemy | — |
 | Python: Iniciante ao Avançado | Udemy | 140h |
 | HTML/CSS | Curso em Vídeo | 50h |
 
