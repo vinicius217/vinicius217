@@ -69,6 +69,14 @@ A full stack authentication system with sign-up, login, password recovery, profi
 - Improving responsive interfaces and user experience
 - Applying Git workflows and clean code practices to real projects
 
+## Certificates
+
+| Course | Institution | Duration |
+|---|---|---:|
+| Python Avançado | Udemy | 40h |
+| Python: Iniciante ao Avançado | Udemy | 140h |
+| HTML/CSS | Curso em Vídeo | 50h |
+
 ## GitHub statistics
 
 <div align="center">
