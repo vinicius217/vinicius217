@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinicius+Madalossi+%F0%9F%91%8B" alt="Hi, I'm Vinicius Madalossi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinicius+Madalossi+%F0%9F%91%8B;Computer+Science+Student;Full+Stack+Developer+in+Training" alt="Hi, I'm Vinicius Madalossi" />
 
 ### Full Stack Developer in Training
 
-Computer Science student building complete web applications with a focus on Python, REST APIs, and responsive interfaces.
+Computer Science student building complete web applications with Python, REST APIs, and responsive interfaces.
 
 </div>
 
@@ -12,20 +12,22 @@ Computer Science student building complete web applications with a focus on Pyth
 
 - 🎓 Computer Science student at Centro Universitário Barão de Mauá
 - 📍 Based in Cravinhos, São Paulo, Brazil
-- 💻 Focused on Full Stack development with Python and FastAPI
-- 🧠 Learning through practical projects, best practices, and problem-solving
-- 🚀 Open to internship and junior developer opportunities
+- 💻 Focused on full stack development with Python and FastAPI
+- 🌱 Currently improving my C++, backend architecture, databases, and clean code skills
+- 🧠 Learning through hands-on projects, problem-solving, and continuous practice
+- 🤝 Open to internships, junior developer opportunities, and collaborations
 
 ## Featured project
 
 ### 🔐 [Nexora — Secure Identity](https://github.com/vinicius217/nexora-auth)
 
-Full stack authentication system featuring sign-up, login, password recovery, profile management, and a responsive dashboard.
+A full stack authentication system with sign-up, login, password recovery, profile management, and a responsive dashboard.
 
-- REST API documented with Swagger
-- Authentication with JWT, HttpOnly cookies, and bcrypt password hashing
-- Layered architecture using FastAPI, SQLAlchemy, and Pydantic
+- REST API with interactive Swagger documentation
+- Authentication using JWT, HttpOnly cookies, and bcrypt password hashing
+- Organized backend with clear separation of responsibilities
 - Responsive interface built with HTML, CSS, and JavaScript
+- Relational database support for secure user data management
 
 [![View code](https://img.shields.io/badge/View_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/nexora-auth)
 [![How to run](https://img.shields.io/badge/How_to_run-009688?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/vinicius217/nexora-auth#como-executar)
@@ -34,18 +36,18 @@ Full stack authentication system featuring sign-up, login, password recovery, pr
 
 <div align="center">
 
-### Backend
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-### Frontend
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
 
@@ -53,12 +55,20 @@ Full stack authentication system featuring sign-up, login, password recovery, pr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### Development tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+## What I'm working on
+
+- Building secure and maintainable REST APIs
+- Strengthening data structures, algorithms, and object-oriented programming with C++
+- Improving responsive interfaces and user experience
+- Applying Git workflows and clean code practices to real projects
 
 ## GitHub statistics
 
