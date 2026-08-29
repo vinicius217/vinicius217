@@ -87,7 +87,7 @@ A full stack authentication system with sign-up, login, password recovery, profi
 ## Contribution activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg" alt="Vinicius's GitHub contribution animation" />
+  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/snake-output/snake.svg?v=2" alt="Vinicius's GitHub contribution animation" />
 </div>
 
 ---
