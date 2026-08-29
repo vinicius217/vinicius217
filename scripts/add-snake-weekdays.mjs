@@ -25,10 +25,57 @@ const labels = [
   '</g>',
 ].join("");
 
+const today = new Date();
+const currentSunday = new Date(
+  Date.UTC(
+    today.getUTCFullYear(),
+    today.getUTCMonth(),
+    today.getUTCDate() - today.getUTCDay(),
+  ),
+);
+const firstSunday = new Date(currentSunday);
+firstSunday.setUTCDate(firstSunday.getUTCDate() - 52 * 7);
+
+const monthNames = [
+  "Jan",
+  "Feb",
+  "Mar",
+  "Apr",
+  "May",
+  "Jun",
+  "Jul",
+  "Aug",
+  "Sep",
+  "Oct",
+  "Nov",
+  "Dec",
+];
+const monthLabels = [];
+let previousMonth = -1;
+
+for (let column = 0; column < 53; column += 1) {
+  const week = new Date(firstSunday);
+  week.setUTCDate(week.getUTCDate() + column * 7);
+  const month = week.getUTCMonth();
+
+  if (month !== previousMonth) {
+    monthLabels.push(
+      `<text class="month-label" x="${column * 16 + 2}" y="-10">${monthNames[month]}</text>`,
+    );
+    previousMonth = month;
+  }
+}
+
+const months =
+  '<g class="month-labels" aria-label="Months">' +
+  monthLabels.join("") +
+  "</g>";
+
 svg = svg.replace(
   "</style>",
-  '.weekday-label{fill:#8b949e;font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;text-anchor:end}</style>' +
-    labels,
+  '.weekday-label,.month-label{fill:#8b949e;font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.weekday-label{text-anchor:end}</style>' +
+    labels +
+    months,
 );
 
 await writeFile(svgPath, svg);
