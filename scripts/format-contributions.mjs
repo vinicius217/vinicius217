@@ -3,7 +3,7 @@ import { readFile, writeFile } from "node:fs/promises";
 const svgPath = process.argv[2];
 
 if (!svgPath) {
-  throw new Error("Usage: node scripts/add-snake-weekdays.mjs <snake.svg>");
+  throw new Error("Usage: node scripts/format-contributions.mjs <contributions.svg>");
 }
 
 let svg = await readFile(svgPath, "utf8");
@@ -13,8 +13,8 @@ if (svg.includes('class="weekday-label"')) {
 }
 
 svg = svg.replace(
-  /viewBox="-16 -32 880 192" width="880"/,
-  'viewBox="-56 -32 920 192" width="920"',
+  /viewBox="-16 -32 880 192" width="880"(?: height="192")?/,
+  'viewBox="-56 -32 920 144" width="920" height="144"',
 );
 
 const labels = [
@@ -73,7 +73,7 @@ const months =
 
 svg = svg.replace(
   "</style>",
-  '.weekday-label,.month-label{fill:#8b949e;font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.weekday-label{text-anchor:end}</style>' +
+  '.s,.u{display:none}.c{animation:none!important}.weekday-label,.month-label{fill:#8b949e;font:10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.weekday-label{text-anchor:end}</style>' +
     labels +
     months,
 );
