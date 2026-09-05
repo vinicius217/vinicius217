@@ -88,9 +88,9 @@ A full stack authentication system with sign-up, login, password recovery, profi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius217/vinicius217/contribution-output/contributions-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius217/vinicius217/contribution-output/contributions-light.svg" />
-    <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/contribution-output/contributions-light.svg" alt="Vinicius's GitHub contribution activity" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius217/vinicius217/contribution-output/contributions-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius217/vinicius217/contribution-output/contributions-light.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/contribution-output/contributions-light.svg?v=2" alt="Vinicius's GitHub contribution activity" />
   </picture>
 </div>
 

@@ -1,8 +1,8 @@
 name: Generate contribution graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute hourly, away from the start-of-hour peak
+    - cron: "17 * * * *"
 
   workflow_dispatch:
 
