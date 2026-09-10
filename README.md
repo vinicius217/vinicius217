@@ -17,7 +17,20 @@ Computer Science student building complete web applications with Python, REST AP
 - 🧠 Learning through hands-on projects, problem-solving, and continuous practice
 - 🤝 Open to internships, junior developer opportunities, and collaborations
 
-## Featured project
+## Featured projects
+
+### 🎬 [Cineverse — Movies and series](https://github.com/vinicius217/cineverse-catalogo)
+
+A responsive movie and TV series catalog integrated with TMDB, featuring title search, year and genre filters, ratings, and favorites.
+
+- Python backend that keeps API keys protected
+- SQLite caching to speed up queries
+- On-demand pagination and rating filters with a minimum of 100 votes
+- Responsive interface built with HTML, CSS, and JavaScript
+- Automated tests and continuous deployment on Render
+
+[![Live demo](https://img.shields.io/badge/Live_demo-009688?style=for-the-badge&logo=render&logoColor=white)](https://cineverse-catalogo.onrender.com)
+[![View code](https://img.shields.io/badge/View_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/cineverse-catalogo)
 
 ### 🔐 [Nexora — Secure Identity](https://github.com/vinicius217/nexora-auth)
 
