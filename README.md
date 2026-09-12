@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinicius+Madalossi+%F0%9F%91%8B;Computer+Science+Student;Full+Stack+Developer+in+Training" alt="Hi, I'm Vinicius Madalossi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinicius+Madalossi+%F0%9F%91%8B;Computer+Science+Student;Back-end+Developer+in+Training" alt="Hi, I'm Vinicius Madalossi" />
 
-### Full Stack Developer in Training
+### Back-end Developer in Training
 
-Computer Science student building complete web applications with Python, REST APIs, and responsive interfaces.
+Computer Science student focused on back-end development with Python, REST APIs, and databases, with familiarity in HTML, CSS, and JavaScript for simple supporting interfaces.
 
 </div>
 
@@ -12,7 +12,7 @@ Computer Science student building complete web applications with Python, REST AP
 
 - 🎓 Computer Science student at Centro Universitário Barão de Mauá
 - 📍 Based in Cravinhos, São Paulo, Brazil
-- 💻 Focused on full stack development with Python and FastAPI
+- 💻 Focused on back-end development with Python and FastAPI
 - 🌱 Currently improving my C++, backend architecture, databases, and clean code skills
 - 🧠 Learning through hands-on projects, problem-solving, and continuous practice
 - 🤝 Open to internships, junior developer opportunities, and collaborations
@@ -55,7 +55,7 @@ A full stack authentication system with sign-up, login, password recovery, profi
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend
+### Front-end fundamentals
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -79,7 +79,7 @@ A full stack authentication system with sign-up, login, password recovery, profi
 
 - Building secure and maintainable REST APIs
 - Strengthening data structures, algorithms, and object-oriented programming with C++
-- Improving responsive interfaces and user experience
+- Practicing front-end fundamentals to connect simple interfaces to my APIs
 - Applying Git workflows and clean code practices to real projects
 
 ## Certificates
