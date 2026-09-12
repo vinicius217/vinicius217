@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinicius+Madalossi+%F0%9F%91%8B;Computer+Science+Student;Back-end+Developer+in+Training" alt="Hi, I'm Vinicius Madalossi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinicius+Madalossi+%F0%9F%91%8B;Computer+Science+Student;Software+Engineer+in+Training" alt="Hi, I'm Vinicius Madalossi" />
 
-### Back-end Developer in Training
+### Software Engineer in Training
 
-Computer Science student focused on back-end development with Python, REST APIs, and databases, with familiarity in HTML, CSS, and JavaScript for simple supporting interfaces.
+Computer Science student focused on back-end development, currently studying Java, REST APIs, and databases, with familiarity in HTML, CSS, and JavaScript for simple supporting interfaces.
 
 </div>
 
@@ -12,8 +12,8 @@ Computer Science student focused on back-end development with Python, REST APIs,
 
 - 🎓 Computer Science student at Centro Universitário Barão de Mauá
 - 📍 Based in Cravinhos, São Paulo, Brazil
-- 💻 Focused on back-end development with Python and FastAPI
-- 🌱 Currently improving my C++, backend architecture, databases, and clean code skills
+- 💻 Transitioning to Java for back-end development (currently studying)
+- 🌱 Currently studying Java and improving my backend architecture, databases, and clean code skills
 - 🧠 Learning through hands-on projects, problem-solving, and continuous practice
 - 🤝 Open to internships, junior developer opportunities, and collaborations
 
@@ -32,19 +32,6 @@ A responsive movie and TV series catalog integrated with TMDB, featuring title s
 [![Live demo](https://img.shields.io/badge/Live_demo-009688?style=for-the-badge&logo=render&logoColor=white)](https://cineverse-catalogo.onrender.com)
 [![View code](https://img.shields.io/badge/View_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/cineverse-catalogo)
 
-### 🔐 [Nexora — Secure Identity](https://github.com/vinicius217/nexora-auth)
-
-A full stack authentication system with sign-up, login, password recovery, profile management, and a responsive dashboard.
-
-- REST API with interactive Swagger documentation
-- Authentication using JWT, HttpOnly cookies, and bcrypt password hashing
-- Organized backend with clear separation of responsibilities
-- Responsive interface built with HTML, CSS, and JavaScript
-- Relational database support for secure user data management
-
-[![View code](https://img.shields.io/badge/View_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius217/nexora-auth)
-[![How to run](https://img.shields.io/badge/How_to_run-009688?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/vinicius217/nexora-auth#como-executar)
-
 ## Technologies and tools
 
 <div align="center">
@@ -52,7 +39,7 @@ A full stack authentication system with sign-up, login, password recovery, profi
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java (studying)](https://img.shields.io/badge/Java-studying-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Front-end fundamentals
@@ -78,7 +65,7 @@ A full stack authentication system with sign-up, login, password recovery, profi
 ## What I'm working on
 
 - Building secure and maintainable REST APIs
-- Strengthening data structures, algorithms, and object-oriented programming with C++
+- Studying Java, with a focus on object-oriented programming, data structures, and algorithms
 - Practicing front-end fundamentals to connect simple interfaces to my APIs
 - Applying Git workflows and clean code practices to real projects
 
