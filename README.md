@@ -82,31 +82,6 @@ A full stack authentication system with sign-up, login, password recovery, profi
 - Practicing front-end fundamentals to connect simple interfaces to my APIs
 - Applying Git workflows and clean code practices to real projects
 
-## Certificates
-
-| Course | Institution | Duration |
-|---|---|---:|
-| MySQL | Udemy | — |
-| Python: Iniciante ao Avançado | Udemy | 140h |
-| HTML/CSS | Curso em Vídeo | 50h |
-
-## GitHub statistics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/stats-output/stats.svg?v=3" height="160" alt="Vinicius's GitHub statistics" />
-  <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/languages-output/languages.svg?v=3" height="160" alt="Vinicius's most used languages" />
-</div>
-
-## Contribution activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius217/vinicius217/contribution-output/contributions-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius217/vinicius217/contribution-output/contributions-light.svg?v=2" />
-    <img src="https://raw.githubusercontent.com/vinicius217/vinicius217/contribution-output/contributions-light.svg?v=2" alt="Vinicius's GitHub contribution activity" />
-  </picture>
-</div>
-
 ---
 
 <div align="center">
